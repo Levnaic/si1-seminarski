@@ -1,0 +1,17 @@
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\bin\Debug\net6.0-windows\prodavnicaElektroOpreme.exe
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\bin\Debug\net6.0-windows\prodavnicaElektroOpreme.deps.json
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\bin\Debug\net6.0-windows\prodavnicaElektroOpreme.runtimeconfig.json
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\bin\Debug\net6.0-windows\prodavnicaElektroOpreme.dll
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\bin\Debug\net6.0-windows\prodavnicaElektroOpreme.pdb
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\obj\Debug\net6.0-windows\prodavnicaElektroOpreme.csproj.AssemblyReference.cache
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\obj\Debug\net6.0-windows\prodavnicaElektroOpreme.Form1.resources
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\obj\Debug\net6.0-windows\prodavnicaElektroOpreme.csproj.GenerateResource.cache
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\obj\Debug\net6.0-windows\prodavnicaElektroOpreme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\obj\Debug\net6.0-windows\prodavnicaElektroOpreme.AssemblyInfoInputs.cache
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\obj\Debug\net6.0-windows\prodavnicaElektroOpreme.AssemblyInfo.cs
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\obj\Debug\net6.0-windows\prodavnicaElektroOpreme.csproj.CoreCompileInputs.cache
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\obj\Debug\net6.0-windows\prodavnicaElektroOpreme.dll
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\obj\Debug\net6.0-windows\refint\prodavnicaElektroOpreme.dll
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\obj\Debug\net6.0-windows\prodavnicaElektroOpreme.pdb
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\obj\Debug\net6.0-windows\prodavnicaElektroOpreme.genruntimeconfig.cache
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\obj\Debug\net6.0-windows\ref\prodavnicaElektroOpreme.dll
