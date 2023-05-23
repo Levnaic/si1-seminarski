@@ -4,7 +4,6 @@ C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOprem
 C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\bin\Debug\net6.0-windows\prodavnicaElektroOpreme.dll
 C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\bin\Debug\net6.0-windows\prodavnicaElektroOpreme.pdb
 C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\obj\Debug\net6.0-windows\prodavnicaElektroOpreme.csproj.AssemblyReference.cache
-C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\obj\Debug\net6.0-windows\prodavnicaElektroOpreme.Form1.resources
 C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\obj\Debug\net6.0-windows\prodavnicaElektroOpreme.csproj.GenerateResource.cache
 C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\obj\Debug\net6.0-windows\prodavnicaElektroOpreme.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\obj\Debug\net6.0-windows\prodavnicaElektroOpreme.AssemblyInfoInputs.cache
@@ -15,3 +14,11 @@ C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOprem
 C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\obj\Debug\net6.0-windows\prodavnicaElektroOpreme.pdb
 C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\obj\Debug\net6.0-windows\prodavnicaElektroOpreme.genruntimeconfig.cache
 C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\obj\Debug\net6.0-windows\ref\prodavnicaElektroOpreme.dll
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\obj\Debug\net6.0-windows\prodavnicaElektroOpreme.csproj.CopyComplete
+C:\Users\L\source\repos\Levnaic\Prodavnica Elektro Opreme\prodavnicaElektroOpreme\prodavnicaElektroOpreme\obj\Debug\net6.0-windows\prodavnicaElektroOpreme.frmProizvodi.resources

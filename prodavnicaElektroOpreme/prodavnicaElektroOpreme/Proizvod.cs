@@ -62,8 +62,8 @@ namespace prodavnicaElektroOpreme
         public void dodajProizvod() 
         {
             string insertSql = "INSERT INTO PROIZVODI_T" +
-                "(Ime, Cena, IdDobavljaca) VALUES" +
-                "(@Ime, @Cena, @IdDobavljaca)";
+                "(Ime, Cena, NaStanju IdDobavljaca) VALUES" +
+                "(@Ime, @Cena, @NaStanju, @IdDobavljaca)";
 
             using (SqlConnection connection = new SqlConnection(_connectionString))
             {
@@ -71,6 +71,7 @@ namespace prodavnicaElektroOpreme
                 command.CommandText = insertSql;
                 command.Parameters.Add(new SqlParameter("@Ime", Ime));
                 command.Parameters.Add(new SqlParameter("@Cena", Cena));
+                command.Parameters.Add(new SqlParameter("@NaStanju", NaStanju));
                 command.Parameters.Add(new SqlParameter("@IdDobavljaca", IdDobavljaca));
                 connection.Open();
                 command.ExecuteNonQuery();
@@ -91,8 +92,8 @@ namespace prodavnicaElektroOpreme
                 command.Parameters.Add(new SqlParameter("@ProizvodId", ID));
                 command.Parameters.Add(new SqlParameter("@Ime", Ime));
                 command.Parameters.Add(new SqlParameter("@Cena", Cena));
-                command.Parameters.Add(new SqlParameter("@IdDobavljaca", IdDobavljaca));
                 command.Parameters.Add(new SqlParameter("@NaStanju", NaStanju));
+                command.Parameters.Add(new SqlParameter("@IdDobavljaca", IdDobavljaca));
                 connection.Open();
                 command.ExecuteNonQuery();
 
